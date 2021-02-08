@@ -1,4 +1,4 @@
-### Hi there, I'm Aman Jamshed 👋 (Interesting Isn't it?)
+### Hey there, I'm Aman Jamshed <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> (Interesting Isn't it?)
 
 
 
