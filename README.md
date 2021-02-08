@@ -19,7 +19,9 @@
 [<img align="left" alt="Aman Jamshed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aman Jamshed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aman Jamshed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Aman Jamshed | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+<a href="mailto:kunalkushwaha453@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 <br />
 
@@ -50,4 +52,4 @@
 [twitter]: https://twitter.com/aman_jamshed_
 [instagram]: https://instagram.com/aman_jamshed_
 [linkedin]: https://www.linkedin.com/in/aman-jamshed-b63206192/
-[mail]: amanjamshed3@gmail.com
+
