@@ -1,8 +1,25 @@
-### Hey there, I'm Aman Jamshed <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> (Interesting Isn't it?)
+### <em> <b>Hey there, I'm Aman Jamshed <b> </em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+##
+### <b> Connect with me: </b>
+<a href="https://www.linkedin.com/in/aman-jamshed-b63206192/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://amanjamshed3.medium.com/">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="mailto:amanjamshed3@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+<a href="https://instagram.com/aman_jamshed_">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
 
 
 
-## <em> <b> I'm a Student, Learner and Developer in making!! </b> </em>
+## <em> <b></b> </em>
 
 - 🔭 Expanding Dimensions!
 - 🌱 I’m currently learning everything 🤣
@@ -14,16 +31,7 @@
 
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
-### Connect with me:
 
-[<img align="left" alt="Aman Jamshed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Aman Jamshed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aman Jamshed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="mailto:amanjamshed3@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<br />
 
 ### Languages and Tools:
 
@@ -36,19 +44,18 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-<br />
+<br/>
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<br>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aman-Jamshed&show_icons=true&hide_border=true" />
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=Aman-Jamshed&show_icons=true&hide_border=true)
 
-</details>
+<br>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aman-Jamshed.Aman-Jamshed)
 
-[twitter]: https://twitter.com/aman_jamshed_
+[medium]: https://amanjamshed3.medium.com/
 [instagram]: https://instagram.com/aman_jamshed_
 [linkedin]: https://www.linkedin.com/in/aman-jamshed-b63206192/
 
