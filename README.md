@@ -23,7 +23,6 @@
 
 - 🔭 Expanding Dimensions!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on web based projects
 - 🥅 2021 Goals: Contribute to Open Source projects, Improve my skills
 - ⚡ Fun fact: I love to explore new things
 
