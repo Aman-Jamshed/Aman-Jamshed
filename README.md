@@ -23,7 +23,7 @@
 
 - 🔭 Expanding Dimensions!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Improve my skills
+- 🥅 2022 Goals: Improve my skills
 - ⚡ Fun fact: I love to explore new things
 
 ### Spotify Playing 🎧
