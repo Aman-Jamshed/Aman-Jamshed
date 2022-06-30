@@ -1,4 +1,4 @@
-### <em> <b>Hey there, I'm Aman Jamshed <b> </em> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+### <em> <b>Hey there, I'm Aman Jamshed <b> </em>  
 ##
 ### <b> Connect with me: </b>
 <a href="https://www.linkedin.com/in/aman-jamshed-b63206192/">
