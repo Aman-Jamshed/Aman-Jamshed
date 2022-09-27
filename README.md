@@ -1,37 +1,31 @@
-##
 
 <hr>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=5b5b5b&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aman+Jamshed;+A+Web+Developer+💻;+Loves+To+Build+Projects+🛠;+Learning+And+Improving+Everyday;+A+Machine+Learning+Enthusiast+🕵;">
+
+
+<p align="center" >
+  <img src="https://readme-typing-svg.herokuapp.com?color=5b5b5b&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aman+Jamshed;A+Developer+💻;+Who+Loves+To+Build+Projects+🛠;I+Am+Learning+And+Improving+Everyday+🕵;">
 </p>
 
-<hr> 
 
 
-### <b> Connect with me: </b>
-<a href="https://www.linkedin.com/in/aman-jamshed-b63206192/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://amanjamshed3.medium.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="mailto:amanjamshed3@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
-<a href="https://instagram.com/aman_jamshed_">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<hr>
 
-<br />
 
-##
 
-### 👯 I’m looking to collaborate on
+- 👯 I’m looking for ways to contribute meaningfully to [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-* For doing projects on **Full stack and ML**.
-* For **Django** Projects.
+ <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="270px" width="260px" align="right">
+
+
+- 💬 Lets collaborate on projects related to web development
+
+
+- 🔧 Using the following tools: ![Ubuntu](https://img.shields.io/badge/-ubuntu-red?style=plastic&logo=ubuntu&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-orange?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=plastic&logo=github)
+-  👩‍💻 Currently learning: Stuff related to web dev
+
+
 
 
 
@@ -45,9 +39,20 @@
 
 
 
-
-
-
+### <b> Connect with me: </b>
+<p align="center">
+<a href="https://github.com/Aman-Jamshed" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/aman-jamshed-b63206192/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@amanjamshed3" target="_blank">
+<img src=https://img.shields.io/badge/medium-%2324292e.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:amanjamshed3@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</p> 
 
 
 
@@ -56,7 +61,7 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=Aman-Jamshed&theme=react-dark&hide_border=true&area=true)
 
-![](https://github-readme-stats.vercel.app/api?username=Aman-Jamshed&show_icons=true&hide_border=true)
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Jamshed&show_icons=true&theme=rose_pine&repo=github-readme-stats&include_all_commits=true)](https://github.com/Aman-Jamshed/github-readme-stats)
 
 <br>
 
