@@ -61,7 +61,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=Aman-Jamshed&theme=react-dark&hide_border=true&area=true)
 
-[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Jamshed&show_icons=true&theme=rose_pine&repo=github-readme-stats&include_all_commits=true)](https://github.com/Aman-Jamshed/github-readme-stats)
 
 <br>
 
