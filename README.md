@@ -23,8 +23,6 @@
 
 
 - 🔧 Using the following tools: ![Ubuntu](https://img.shields.io/badge/-ubuntu-red?style=plastic&logo=ubuntu&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-blue?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-orange?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=plastic&logo=github)
--  👩‍💻 Currently learning: Stuff related to web dev
-
 
 
 
@@ -39,7 +37,7 @@
 
 
 
-### <b> Connect with me: </b>
+### <b> Connect with me:</b>
 <p align="center">
 <a href="https://github.com/Aman-Jamshed" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -53,18 +51,22 @@
 <a href="mailto:amanjamshed3@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> 
-
-
+  
 
 
 ### Github Stats
 
-![](https://activity-graph.herokuapp.com/graph?username=Aman-Jamshed&theme=react-dark&hide_border=true&area=true)
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=Aman-Jamshed&theme=react-dark&hide_border=true&area=true) -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aman-Jamshed&show_icons=true&theme=gotham" alt="amanjamshed" />
+
 
 
 <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aman-Jamshed.Aman-Jamshed)
+
+
+  
 
 [medium]: https://amanjamshed3.medium.com/
 [instagram]: https://instagram.com/aman_jamshed_
