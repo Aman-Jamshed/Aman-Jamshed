@@ -4,7 +4,7 @@
 
 
 <p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?color=5b5b5b&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aman+Jamshed;A+Learner+💻;+Who+Loves+To+Build+Projects+🛠;Trying+And+Improving+Everyday+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=5b5b5b&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aman+Jamshed;A+Learner+💻;+Who+Loves+To+Build+Projects+🛠;I+Am+Trying+And+Improving+Everyday+🕵;">
 </p>
 
 
