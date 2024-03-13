@@ -57,7 +57,11 @@
 ### Github Stats
 
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=Aman-Jamshed&theme=react-dark&hide_border=true&area=true) -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aman-Jamshed&show_icons=true&theme=gotham" alt="amanjamshed" />
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Aman-Jamshed&theme=gotham" alt="amanjamshed" />
+
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Aman-Jamshed&theme=gotham)](https://git.io/streak-stats) -->
+
+
 
 
 
